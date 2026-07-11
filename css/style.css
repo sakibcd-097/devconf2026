@@ -1,44 +1,4 @@
-.nav-bar {
-  background: #fcf2f2;
 
-  padding: 22px 0;
-
-  border-bottom: 2px solid #f10a89;
-}
-
-.nav-bar .nav-container {
-  display: flex;
-
-  justify-content: space-between;
-
-  align-items: center;
-}
-
-.logo img {
-  width: 175px;
-}
-
-.nav-menu {
-  display: flex;
-
-  gap: 40px;
-
-  list-style: none;
-}
-
-.nav-menu li a {
-  text-decoration: none;
-
-  color: #8b8871de;
-
-  font-size: 18px;
-
-  font-weight: 400;
-}
-
-.nav-menu li a:hover {
-  color: #ed086b;
-}
 
 .regi-btn {
   text-decoration: none;
